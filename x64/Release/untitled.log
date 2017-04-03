@@ -1,0 +1,4 @@
+﻿  Generate moc_predefs.h
+  glwidget.cpp
+glwidget.cpp(19): warning C4100: 'e': 참조되지 않은 정식 매개 변수입니다.
+  untitled.vcxproj -> C:\Users\Lucid Jeong\Documents\untitled\release\untitled.exe
